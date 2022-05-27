@@ -1,0 +1,302 @@
+[
+    {
+        "rarita": "A1",
+        "nome": "pagani",
+        "bandiera": "pagani/ita.png",
+        "img": "pagani/pagani.jpeg",
+        "peso": 1200,
+        "cilindrata": 6000,
+        "cavalli": 850,
+        "accellerazione": 3.2
+    },
+    {
+        "rarita": "A2",
+        "nome": "lotus",
+        "bandiera": "lotus/ing.png",
+        "img": "lotus/lotus.jpeg",
+        "peso": 1350,
+        "cilindrata": 1800,
+        "cavalli": 500,
+        "accellerazione": 3.3
+    },
+    {
+        "rarita": "A3",
+        "nome": "bugatti",
+        "bandiera": "bugatti/ita.png",
+        "img": "bugatti/bugatti.jpeg",
+        "peso": 1450,
+        "cilindrata": 8000,
+        "cavalli": 150,
+        "accellerazione": 2.4
+    },
+    {
+        "rarita": "B1",
+        "nome": "maserati",
+        "bandiera": "maserati/ita.png",
+        "img": "maserati/maserati.jpeg",
+        "peso": 1300,
+        "cilindrata": 3500,
+        "cavalli": 510,
+        "accellerazione": 5
+    },
+    {
+        "rarita": "B2",
+        "nome": "lamborghini",
+        "bandiera": "lamborghini/ita.png",
+        "img": "lamborghini/lamborghini.jpeg",
+        "peso": 1400,
+        "cilindrata": 3800,
+        "cavalli": 620,
+        "accellerazione": 3.4
+    },
+    {
+        "rarita": "B3",
+        "nome": "aston martin",
+        "bandiera": "astonMartin/ing.png",
+        "img": "astonMartin/astonMartin.jpeg",
+        "peso": 2000,
+        "cilindrata": 5200,
+        "cavalli": 700,
+        "accellerazione": 3.5
+    },
+    {
+        "rarita": "B4",
+        "nome": "jaguar",
+        "bandiera": "jaguar/ing.png",
+        "img": "jaguar/jaguar.jpeg",
+        "peso": 1400,
+        "cilindrata": 3500,
+        "cavalli": 510,
+        "accellerazione": 4.2
+    },
+    {
+        "rarita": "B5",
+        "nome": "ferrari",
+        "bandiera": "ferrari/ita.png",
+        "img": "ferrari/ferrari.jpeg",
+        "peso": 1500,
+        "cilindrata": 4000,
+        "cavalli": 650,
+        "accellerazione": 3.4
+    },
+    {
+        "rarita": "B6",
+        "nome": "tesla",
+        "bandiera": "tesla/usa.webp",
+        "img": "tesla/tesla.jpeg",
+        "peso": 1100,
+        "cilindrata": 0,
+        "cavalli": 500,
+        "accellerazione": 2.9
+    },
+    {
+        "rarita": "B7",
+        "nome": "porsche",
+        "bandiera": "porsche/ger.png",
+        "img": "porsche/porsche.jpeg",
+        "peso": 1300,
+        "cilindrata": 3800,
+        "cavalli": 490,
+        "accellerazione": 3.8
+    },
+    {
+        "rarita": "B8",
+        "nome": "bmw",
+        "bandiera": "bmw/ger.png",
+        "img": "bmw/bmw.jpeg",
+        "peso": 1400,
+        "cilindrata": 2900,
+        "cavalli": 330,
+        "accellerazione": 4.2
+    },
+    {
+        "rarita": "B9",
+        "nome": "volvo",
+        "bandiera": "volvo/sve.png",
+        "img": "volvo/volvo.jpeg",
+        "peso": 1400,
+        "cilindrata": 2800,
+        "cavalli": 310,
+        "accellerazione": 5.4
+    },
+    {
+        "rarita": "C1",
+        "nome": "ssangyong",
+        "bandiera": "ssangyong/cds.png",
+        "img": "ssangyong/ssangyong.jpeg",
+        "peso": 1550,
+        "cilindrata": 1430,
+        "cavalli": 145,
+        "accellerazione": 6.2
+    },
+    {
+        "rarita": "C2",
+        "nome": "citroen",
+        "bandiera": "citroen/fra.png",
+        "img": "citroen/citroen.jpeg",
+        "peso": 1600,
+        "cilindrata": 1200,
+        "cavalli": 150,
+        "accellerazione": 7.4
+    },
+    {
+        "rarita": "C3",
+        "nome": "nissan",
+        "bandiera": "nissan/giap.png",
+        "img": "nissan/nissan.jpeg",
+        "peso": 1500,
+        "cilindrata": 1300,
+        "cavalli": 140,
+        "accellerazione": 6.4
+    },
+    {
+        "rarita": "C4",
+        "nome": "hyundai",
+        "bandiera": "hyundai/cds.png",
+        "img": "hyundai/hyundai.jpeg",
+        "peso": 2000,
+        "cilindrata": 1000,
+        "cavalli": 200,
+        "accellerazione": 4.8
+    },
+    {
+        "rarita": "C5",
+        "nome": "opel",
+        "bandiera": "opel/ger.png",
+        "img": "opel/opel.jpeg",
+        "peso": 1400,
+        "cilindrata": 1300,
+        "cavalli": 120,
+        "accellerazione": 5.2
+    },
+    {
+        "rarita": "C6",
+        "nome": "peugeot",
+        "bandiera": "peugeot/fra.png",
+        "img": "peugeot/peugeot.jpeg",
+        "peso": 1800,
+        "cilindrata": 1300,
+        "cavalli": 120,
+        "accellerazione": 7
+    },
+    {
+        "rarita": "C7",
+        "nome": "mini",
+        "bandiera": "mini/ing.png",
+        "img": "mini/mini.jpeg",
+        "peso": 1100,
+        "cilindrata": 900,
+        "cavalli": 100,
+        "accellerazione": 7.8
+    },
+    {
+        "rarita": "C8",
+        "nome": "ford",
+        "bandiera": "ford/usa.webp",
+        "img": "ford/ford.jpeg",
+        "peso": 1500,
+        "cilindrata": 1200,
+        "cavalli": 140,
+        "accellerazione": 7.3
+    },
+    {
+        "rarita": "C9",
+        "nome": "audi",
+        "bandiera": "audi/ger.png",
+        "img": "audi/audi.jpeg",
+        "peso": 2000,
+        "cilindrata": 1700,
+        "cavalli": 120,
+        "accellerazione": 4.8
+    },
+    {
+        "rarita": "D1",
+        "nome": "volkswagen",
+        "bandiera": "volkswagen/ger.png",
+        "img": "volkswagen/volkswagen.jpeg",
+        "peso": 1500,
+        "cilindrata": 1800,
+        "cavalli": 190,
+        "accellerazione": 6.2
+    },
+    {
+        "rarita": "D2",
+        "nome": "renault",
+        "bandiera": "renault/fra.png",
+        "img": "renault/renault.jpeg",
+        "peso": 1400,
+        "cilindrata": 1000,
+        "cavalli": 100,
+        "accellerazione": 10.4
+    },
+    {
+        "rarita": "D3",
+        "nome": "fiat",
+        "bandiera": "fiat/ita.png",
+        "img": "fiat/fiat.jpeg",
+        "peso": 1000,
+        "cilindrata": 1100,
+        "cavalli": 100,
+        "accellerazione": 14.2
+    },
+    {
+        "rarita": "D4",
+        "nome": "habart",
+        "bandiera": "habart/ita.png",
+        "img": "habart/habart.jpeg",
+        "peso": 1000,
+        "cilindrata": 1000,
+        "cavalli": 90,
+        "accellerazione": 10.2
+    },
+    {
+        "rarita": "D5",
+        "nome": "lancia",
+        "bandiera": "lancia/ita.png",
+        "img": "lancia/lancia.jpg",
+        "peso": 1000,
+        "cilindrata": 1050,
+        "cavalli": 100,
+        "accellerazione": 13.1
+    },
+    {
+        "rarita": "D6",
+        "nome": "alfaRomeo",
+        "bandiera": "alfaRomeo/ita.png",
+        "img": "alfaRomeo/alfaRomeo.jpeg",
+        "peso": 1200,
+        "cilindrata": 1300,
+        "cavalli": 240,
+        "accellerazione": 7.3
+    },
+    {
+        "rarita": "D7",
+        "nome": "dodge",
+        "bandiera": "dodge/usa.webp",
+        "img": "dodge/dodge.jpeg",
+        "peso": 1400,
+        "cilindrata": 1200,
+        "cavalli": 260,
+        "accellerazione": 6.9
+    },
+    {
+        "rarita": "D8",
+        "nome": "landRover",
+        "bandiera": "landRover/ing.png",
+        "img": "landRover/landRover.jpeg",
+        "peso": 1800,
+        "cilindrata": 1400,
+        "cavalli": 200,
+        "accellerazione": 11.6
+    },
+    {
+        "rarita": "D9",
+        "nome": "kia",
+        "bandiera": "kia/cds.png",
+        "img": "kia/kia.jpeg",
+        "peso": 1300,
+        "cilindrata": 1100,
+        "cavalli": 130,
+        "accellerazione": 11.1
+    }
+]
