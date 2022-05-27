@@ -5,7 +5,6 @@ const bodyParser = require('body-parser');
 const cors = require('cors');
 
 const app = express();
-const host = "server-info-gioco-macchine.herokuapp.com"
 const port = 3333;
 
 app.use(cors());
@@ -28,4 +27,4 @@ app.get('/api/cars', (req, res) => {
 //     res.send('Book is added to the database');
 // });
 
-app.listen(port, host, () => console.log(`Hello world app listening on port ${port}!`));
+app.listen(port, () => console.log(`Hello world app listening on port ${port}!`));
