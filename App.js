@@ -5,7 +5,7 @@ const bodyParser = require('body-parser');
 const cors = require('cors');
 
 const app = express();
-const host = "127.0.0.1"
+const host = "server-info-gioco-macchine.herokuapp.com"
 const port = 3333;
 
 app.use(cors());
